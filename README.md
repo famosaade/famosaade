@@ -61,7 +61,7 @@ Git • GitHub • Jupyter Notebook
 
 🌍 **Portfolio:** [www.adegbitefamosa.com.ng](http://www.adegbitefamosa.com.ng)  
 💼 **LinkedIn:** [linkedin.com/in/adefam](https://www.linkedin.com/in/adefam)  
-💻 **GitHub:** [github.com/famosade](https://github.com/famosaade)  
+💻 **GitHub:** [github.com/famosaade](https://github.com/famosaade)  
 📧 **Email:** [famosaade@gmail.com](mailto:famosaade@gmail.com)  
 
 ---
